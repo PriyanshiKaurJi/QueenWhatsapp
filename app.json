@@ -1,6 +1,6 @@
 
 {
-  "name": "XLICON-V4-MD",
+  "name": "QueenBotV2",
   "description": "WhatsApp Bot Using Lib Baileys",
   "repository": "https://github.com/salmanytofficial/XLICON-V4-MD",
   "logo": "https://iili.io/dET3ukX.md.png",
@@ -13,22 +13,22 @@
     }
     },
   "env": {
-    "SESSION_ID": {
+    "SESSION_ID": XLICON-V4~WmQwVIwL#yptW9FWbvcl4fUuMi4GKwPozmqpvl1PqsTBc_YQxQqg
       "description": "Enter session id here; must start with XLICON-V4~",
       "required": true
     },
     "BOT_NAME": {
-      "value": "XLICON-V4-MD",
+      "value": "QueenBotV2",
       "description": "Bot Name",
        "required": true 
     },
     "OWNER_NUMBER": {
-      "value": "923184070915",
+      "value": "919770202327",
       "description": "Owner Number",
        "required": true
     },
     "OWNER_NAME": {
-      "value": "𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙",
+      "value": "𝑃𝑟𝑖𝑦𝑎𝑛𝑠𝒉𝑖 𝐾𝑎𝑢𝑟",
       "description": "Owner Name",
        "required": true
     },
@@ -38,7 +38,7 @@
        "required": false
     },
     "AUTHOR_NAME": {
-      "value": "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿",
+      "value": "MΛDΣ BY 𝙿𝚁𝙸𝚈𝙰𝙽𝚂𝙷𝙸 𝙺𝙰𝚄𝚁",
       "description": "Sticker Author Name",
        "required": false
     },
@@ -48,7 +48,7 @@
        "required": true
     },
     "PREMIUM_NUMBER": {
-      "value": "923184070915",
+      "value": "919770202327",
       "description": "Premium User IDs (comma-separated)",
       "required": true
     },
@@ -63,7 +63,7 @@
        "required": false
     },
     "ANTIFOREIGN_COUNTRYCODE": {
-      "value": "91",
+      "value": "92",
       "description": "Anti-Foreign Number Country Code",
        "required": false
     }
