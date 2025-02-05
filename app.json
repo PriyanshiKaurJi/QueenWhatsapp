@@ -13,7 +13,7 @@
     }
     },
   "env": {
-    "SESSION_ID": XLICON-V4~WmQwVIwL#yptW9FWbvcl4fUuMi4GKwPozmqpvl1PqsTBc_YQxQqg
+    "SESSION_ID": "XLICON-V4~WmQwVIwL#yptW9FWbvcl4fUuMi4GKwPozmqpvl1PqsTBc_YQxQqg"
       "description": "Enter session id here; must start with XLICON-V4~",
       "required": true
     },
